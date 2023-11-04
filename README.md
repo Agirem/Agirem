@@ -3,9 +3,9 @@
 ### **Front-end Developer | UI/UX Designer** 🚀
 <hr>
 
-<figure><embed src="https://wakatime.com/share/@Agirem/eecc5710-8702-47e8-8b9e-ad082beb2074.svg"></embed></figure>
+<a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="500" width="800"></a><br>
+<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a>
 
-<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a> <a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="500" width="800"></a>
 
 
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
@@ -30,7 +30,7 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 
 
 <div align="center">
-<i>Let's Connect:</i><br>
+<i>Let's Connect:</i><br><br>
 
 <a href="https://www.linkedin.com/in/ousmane-meriga-259955171" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/agirem_035?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
