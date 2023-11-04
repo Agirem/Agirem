@@ -1,8 +1,7 @@
 ## Hi there, i'm Ousmane Meriga  👋
 
-### **Front-end Developer | UI/UX Designer** 🚀
+### **Junior Front-end Developer | UI/UX Designer** 🚀
 <hr>
-
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
 
 ### Fun Fact 🎉
@@ -14,12 +13,12 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 <figure><embed src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg"></embed></figure>
 </div>
 
-### 🧰 &nbsp;My toolbox
+###  &nbsp;My toolbox 🧰
 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" width="50" />
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="50" width="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="50" width="50" />
           
-### WakaTime
+### WakaTime 🕗
 <a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="500" width="800"></a><br>
 <a href="https://wakatime.com/@0e084dee-dec9-404e-aa24-9ea941d978a0"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0.svg" alt="Total time coded since Mar 28 2023" /></a>
 ---
@@ -34,22 +33,3 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 <a href="https://open.spotify.com/user/3wqyfbx4xpmzkgk8elv7etww4?si=d6154a79c4de4253" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
           
-          
-          
-          
-<!--
-**Agirem/Agirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
