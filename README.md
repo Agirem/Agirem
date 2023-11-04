@@ -1,6 +1,6 @@
-### Hi there, i'm Ousmane Meriga  👋
+## Hi there, i'm Ousmane Meriga  👋
 
-## **Front-end Developer | UI/UX Designer** 🚀
+### **Front-end Developer | UI/UX Designer** 🚀
 <hr>
 
 <figure><embed src="https://wakatime.com/share/@Agirem/eecc5710-8702-47e8-8b9e-ad082beb2074.svg"></embed></figure>
@@ -10,14 +10,16 @@
 
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
 
-## Fun Fact 🎉
+### Fun Fact 🎉
 
 If you ever want to bribe me, just offer me a plate of "okok", I'll spill all the secrets! 😉🍛
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaborations in mind.
 
+<figure><embed src="https://wakatime.com/share/@Agirem/02a636d3-3120-433d-a3de-fc76827d16e1.svg"></embed></figure>
 
-## 🧰 &nbsp;My toolbox
+
+### 🧰 &nbsp;My toolbox
 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" width="50" />
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="50" width="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="50" width="50" />
