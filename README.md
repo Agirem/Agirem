@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a>
 <!--
 **Agirem/Agirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
