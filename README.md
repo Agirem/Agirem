@@ -5,7 +5,7 @@
 
 <figure><embed src="https://wakatime.com/share/@Agirem/eecc5710-8702-47e8-8b9e-ad082beb2074.svg"></embed></figure>
 
-<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a> <a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="150" width="300"></a>
+<a href="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0/project/773704d6-f388-4616-b9d8-0e250e0dc07a.svg" alt="wakatime"></a> <a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="150" width="800"></a>
 
 
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
