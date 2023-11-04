@@ -19,8 +19,11 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="50" width="50" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="50" width="50" />
           
 ### WakaTime 🕗
-<a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="500" width="800"></a><br>
+<div align="center">
 <a href="https://wakatime.com/@0e084dee-dec9-404e-aa24-9ea941d978a0"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0.svg" alt="Total time coded since Mar 28 2023" /></a>
+</div>
+<a href="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872"><img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="wakatime" height="500" width="800"></a><br>
+
 ---
 
 
