@@ -16,8 +16,9 @@ If you ever want to bribe me, just offer me a plate of "okok", I'll spill all th
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaborations in mind.
 
-<figure><embed src="https://wakatime.com/share/@Agirem/02a636d3-3120-433d-a3de-fc76827d16e1.svg"></embed></figure>
-
+<div align="center">
+<figure><embed src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg"></embed></figure>
+</div>
 
 ### 🧰 &nbsp;My toolbox
 
