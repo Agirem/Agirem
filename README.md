@@ -4,9 +4,7 @@
 <hr>
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
 
-### Fun Fact 🎉
 
-If you ever want to bribe me, just offer me a plate of "okok", I'll spill all the secrets! 😉🍛
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaborations in mind.
 
 <div align="center">
