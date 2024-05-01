@@ -1,8 +1,8 @@
 ## Hi there, i'm Ousmane Meriga  👋
 
-### **Junior Front-end Developer | UI/UX Designer** 🚀
+### **Developer | UI/UX Designer** 🚀
 <hr>
-Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in front-end development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
+Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I am a student studying Digital Engineering in Cameroon. I specialize in development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
 
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaborations in mind.
