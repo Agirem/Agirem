@@ -11,12 +11,6 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 <figure><embed src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg"></embed></figure>
 </div>
 
-          
-### WakaTime 🕗
-<div align="center">
-<a href="https://wakatime.com/@0e084dee-dec9-404e-aa24-9ea941d978a0"><img src="https://wakatime.com/badge/user/0e084dee-dec9-404e-aa24-9ea941d978a0.svg" alt="Total time coded since Mar 28 2023" /></a><br>
-        
-</div>
 
 
 ---
