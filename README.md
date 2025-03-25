@@ -1,6 +1,6 @@
 ## Hi there, i'm Ousmane Meriga  👋
 
-### **Developer | UI/UX Designer** 🚀
+### **Software Engineer| UI/UX Designer** 🚀
 <hr>
 Welcome to my GitHub profile! I am Ousmane Meriga, also known as Babana or Agirem. I specialize in development and design, with a keen interest in UI and UX. I am a proud fan of Google technologies and strive to learn from them every day. 💡🔍
 
