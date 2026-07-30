@@ -2,149 +2,54 @@
 
 ## Digital Systems Engineer · Software Engineer
 
-**Backend Engineering · Software Architecture · Distributed Systems · Web & Mobile**
+I build reliable web and mobile software, with a focus on **backend engineering, software architecture, APIs, distributed workflows, and cloud infrastructure**.
 
-I'm a Digital Systems Engineer and Software Engineer focused on designing, building, and operating production software systems.
-
-My work spans **backend engineering, web and mobile applications, REST APIs, transactional workflows, asynchronous processing, databases, third-party integrations, and cloud infrastructure**.
-
-I enjoy turning complex operational problems into reliable software products, with a growing focus on **distributed systems, software architecture, backend engineering, and platform reliability**.
+Main technologies: **Laravel, Vue.js, Flutter, MySQL, Redis, Docker, Linux and Cloudflare**.
 
 ---
 
-## 🚀 What I Work On
-
-- Design and build **backend services and REST APIs**
-- Develop production **web and mobile applications**
-- Architect **transactional and asynchronous workflows**
-- Integrate **payments, messaging, webhooks, notifications, and third-party services**
-- Build **offline-capable and synchronized client experiences**
-- Design data models and work with relational and local databases
-- Deploy and operate applications using **containers, CI/CD, Linux, and cloud/VPS infrastructure**
-
----
-
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
 ### MyTravelr
+Travel platform for intercity transportation, combining web and mobile applications with booking, Mobile Money payments, QR/PDF ticketing, agency tools, notifications and offline workflows.
 
-A multi-sided travel platform designed to modernize intercity transportation and improve access to travel services in Cameroon.
-
-The platform combines customer-facing web and mobile applications with operational tools for transport agencies and staff.
-
-**Highlights**
-- Transactional booking and availability workflows
-- Mobile Money payment integrations
-- QR and PDF ticketing
-- Automated confirmations through application notifications, WhatsApp, and SMS
-- Web portals for transport operators and agency staff
-- Offline-capable mobile workflows
-- Background processing and real-time features
-
-**Tech:** Laravel · Vue.js · Flutter · MySQL · Redis · REST APIs · WebSockets · Mobile Money · Firebase
+**Tech:** Laravel · Vue.js · Flutter · MySQL · Redis · REST APIs
 
 🌐 [mytravelr.cm](https://mytravelr.cm)
 
----
-
 ### Clario
+SaaS platform for professional email management with custom domains, multi-tenant accounts, asynchronous email processing, webhooks, DNS automation and delivery tracking.
 
-A SaaS platform for managing professional email across custom domains, mailboxes, teams, and applications.
-
-**Highlights**
-- Multi-tenant account and mailbox architecture
-- Custom-domain onboarding and DNS configuration
-- Asynchronous inbound and outbound email processing
-- Authenticated webhooks, delivery tracking, retries, and attachments
-- REST APIs with scoped access
-- Background workers and real-time events
-- Production deployment and infrastructure management
-
-**Tech:** Laravel · Vue.js · Inertia.js · MySQL · Queues · Webhooks · Cloudflare · Postmark · REST APIs
+**Tech:** Laravel · Vue.js · MySQL · Postmark · Cloudflare · Queues · Webhooks
 
 🌐 [clario-mail.com](https://clario-mail.com)
 
----
-
 ### Stash
+Cross-platform bookmark manager with mobile and Chrome clients, offline-first synchronization, persistent queues and asynchronous content enrichment.
 
-A cross-platform bookmark management platform for saving, organizing, and synchronizing content from the web and social platforms across mobile and Chrome.
-
-**Highlights**
-- Shared REST API for mobile and browser clients
-- Offline-first synchronization with persistent queues
-- Optimistic updates and retry mechanisms
-- Dependency-aware synchronization
-- Asynchronous content enrichment
-- Collections, tags, reminders, and cross-device sync
-
-**Tech:** Laravel · MySQL · Vue.js · Flutter · Chrome Extension · REST APIs · Queues
+**Tech:** Laravel · Vue.js · Flutter · MySQL · Chrome Extension · REST APIs
 
 ---
 
-### Baraka
+## 🛠️ Stack
 
-A mobile application providing tools and content for everyday spiritual practice, including daily invocations, Tasbih, Hadiths, mosques, and community events.
-
-**Highlights**
-- Cross-platform mobile application
-- Authentication and cloud-backed data
-- Location-based content and community features
-- Product UI/UX and landing page development
-
-**Tech:** Flutter · Dart · Supabase · Figma
+**Backend:** Laravel · PHP · REST APIs · Queues · Webhooks  
+**Frontend:** Vue.js · React · Inertia.js · Tailwind CSS  
+**Mobile:** Flutter · Dart  
+**Data:** MySQL · PostgreSQL · Redis · SQLite  
+**Infrastructure:** Docker · Linux · Nginx · CI/CD · Cloudflare
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Interests
 
-### Backend
-`Laravel` · `PHP` · `REST APIs` · `Queues` · `Webhooks` · `WebSockets`
-
-### Frontend
-`Vue.js` · `React` · `Inertia.js` · `Tailwind CSS`
-
-### Mobile
-`Flutter` · `Dart`
-
-### Data
-`MySQL` · `PostgreSQL` · `Redis` · `SQLite` · `Supabase`
-
-### Infrastructure
-`Docker` · `Linux` · `Nginx` · `CI/CD` · `Cloudflare` · `VPS`
-
-### Engineering
-`Git` · `GitHub` · `API Design` · `Software Architecture` · `Testing` · `Postman`
+Distributed Systems · Software Architecture · Backend Engineering · Cloud Infrastructure · System Reliability
 
 ---
 
-## 🧠 Engineering Interests
+## 🤝 Connect
 
-I'm particularly interested in:
-
-- **Distributed Systems**
-- **Software Architecture**
-- **Backend & Platform Engineering**
-- **Cloud Infrastructure**
-- **System Reliability**
-- **Offline-First Systems**
-- **Synchronization & Asynchronous Processing**
-
----
-
-## 📊 Coding Activity
-
-<div align="center">
-  <img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="WakaTime coding activity" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agirem1)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-meriga.cm-181717?style=flat-square&logo=vercel&logoColor=white)](https://meriga.cm)
+[LinkedIn](https://www.linkedin.com/in/agirem1) · [Portfolio](https://meriga.cm)
 
 ---
 
