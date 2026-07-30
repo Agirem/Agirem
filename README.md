@@ -1,23 +1,26 @@
 # Hi, I'm Ousmane Meriga 👋
 
-## Software Engineer · Full-Stack Web & Mobile Developer
+## Digital Systems Engineer · Software Engineer
 
-I am a Software Engineer from Cameroon with experience building web and mobile applications, REST APIs, digital platforms, and user-focused products.
+**Backend Engineering · Software Architecture · Distributed Systems · Web & Mobile**
 
-I work mainly with **Laravel, Flutter, Vue.js, React.js, PHP, JavaScript, Dart, SQL, Docker, and cloud deployment tools**.
-My focus is on building reliable, scalable, and practical digital solutions that solve real business problems.
+I'm a Digital Systems Engineer and Software Engineer focused on designing, building, and operating production software systems.
+
+My work spans **backend engineering, web and mobile applications, REST APIs, transactional workflows, asynchronous processing, databases, third-party integrations, and cloud infrastructure**.
+
+I enjoy turning complex operational problems into reliable software products, with a growing focus on **distributed systems, software architecture, backend engineering, and platform reliability**.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work On
 
-* Build full-stack web applications with **Laravel, Vue.js, React.js and Inertia.js**
-* Develop mobile applications with **Flutter**
-* Design and integrate **REST APIs**
-* Work with **MySQL, PostgreSQL and Supabase**
-* Integrate **digital payments**, QR codes, notifications and real-time features
-* Deploy and maintain applications using **Docker, VPS, CI/CD and cloud platforms**
-* Design clean and user-friendly interfaces with a strong UI/UX mindset
+- Design and build **backend services and REST APIs**
+- Develop production **web and mobile applications**
+- Architect **transactional and asynchronous workflows**
+- Integrate **payments, messaging, webhooks, notifications, and third-party services**
+- Build **offline-capable and synchronized client experiences**
+- Design data models and work with relational and local databases
+- Deploy and operate applications using **containers, CI/CD, Linux, and cloud/VPS infrastructure**
 
 ---
 
@@ -25,84 +28,124 @@ My focus is on building reliable, scalable, and practical digital solutions that
 
 ### MyTravelr
 
-A web and mobile platform for intercity transport booking in Cameroon.
-It includes ticket reservation, Mobile Money payments, PDF tickets, QR-code validation, agency portals, notifications and offline-oriented workflows.
+A multi-sided travel platform designed to modernize intercity transportation and improve access to travel services in Cameroon.
 
-**Tech:** Laravel, Flutter, Vue.js, REST APIs, MySQL, Mobile Money, QR Code
+The platform combines customer-facing web and mobile applications with operational tools for transport agencies and staff.
+
+**Highlights**
+- Transactional booking and availability workflows
+- Mobile Money payment integrations
+- QR and PDF ticketing
+- Automated confirmations through application notifications, WhatsApp, and SMS
+- Web portals for transport operators and agency staff
+- Offline-capable mobile workflows
+- Background processing and real-time features
+
+**Tech:** Laravel · Vue.js · Flutter · MySQL · Redis · REST APIs · WebSockets · Mobile Money · Firebase
+
+🌐 [mytravelr.cm](https://mytravelr.cm)
+
+---
+
+### Clario
+
+A SaaS platform for managing professional email across custom domains, mailboxes, teams, and applications.
+
+**Highlights**
+- Multi-tenant account and mailbox architecture
+- Custom-domain onboarding and DNS configuration
+- Asynchronous inbound and outbound email processing
+- Authenticated webhooks, delivery tracking, retries, and attachments
+- REST APIs with scoped access
+- Background workers and real-time events
+- Production deployment and infrastructure management
+
+**Tech:** Laravel · Vue.js · Inertia.js · MySQL · Queues · Webhooks · Cloudflare · Postmark · REST APIs
+
+🌐 [clario-mail.com](https://clario-mail.com)
+
+---
+
+### Stash
+
+A cross-platform bookmark management platform for saving, organizing, and synchronizing content from the web and social platforms across mobile and Chrome.
+
+**Highlights**
+- Shared REST API for mobile and browser clients
+- Offline-first synchronization with persistent queues
+- Optimistic updates and retry mechanisms
+- Dependency-aware synchronization
+- Asynchronous content enrichment
+- Collections, tags, reminders, and cross-device sync
+
+**Tech:** Laravel · MySQL · Vue.js · Flutter · Chrome Extension · REST APIs · Queues
+
+---
 
 ### Baraka
 
-A Flutter mobile application for daily Islamic practice, including invocations, Tasbih, Hadiths, 99 Names of Allah, mosques and events.
+A mobile application providing tools and content for everyday spiritual practice, including daily invocations, Tasbih, Hadiths, mosques, and community events.
 
-**Tech:** Flutter, Supabase
+**Highlights**
+- Cross-platform mobile application
+- Authentication and cloud-backed data
+- Location-based content and community features
+- Product UI/UX and landing page development
 
-### OM Components
-
-A personal library of reusable Vue.js and Tailwind CSS components.
-
-**Tech:** Vue.js, Tailwind CSS
-
-### AirMo
-
-A web application for airtime credit conversion and communication credit purchase.
-
-**Tech:** Laravel, Vue.js
+**Tech:** Flutter · Dart · Supabase · Figma
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:** Laravel, PHP, REST APIs, SQL
-**Frontend:** Vue.js, React.js, Inertia.js, Tailwind CSS
-**Mobile:** Flutter, Dart
-**Databases:** MySQL, PostgreSQL, Supabase
-**DevOps & Cloud:** Docker, CI/CD, VPS, Vercel, Netlify, Cloudflare
-**Tools:** Git, GitHub, Postman, Figma, Jira, Trello
-**Other:** WebSockets, real-time chat, notifications, digital payments, QR code systems
+### Backend
+`Laravel` · `PHP` · `REST APIs` · `Queues` · `Webhooks` · `WebSockets`
+
+### Frontend
+`Vue.js` · `React` · `Inertia.js` · `Tailwind CSS`
+
+### Mobile
+`Flutter` · `Dart`
+
+### Data
+`MySQL` · `PostgreSQL` · `Redis` · `SQLite` · `Supabase`
+
+### Infrastructure
+`Docker` · `Linux` · `Nginx` · `CI/CD` · `Cloudflare` · `VPS`
+
+### Engineering
+`Git` · `GitHub` · `API Design` · `Software Architecture` · `Testing` · `Postman`
 
 ---
 
-## 📈 Current Focus
+## 🧠 Engineering Interests
 
-I am currently strengthening my skills in:
+I'm particularly interested in:
 
-* Cloud & DevOps
-* Docker and containerized deployments
-* CI/CD pipelines
-* Infrastructure automation
-* Scalable backend architecture
-* Software quality and system reliability
+- **Distributed Systems**
+- **Software Architecture**
+- **Backend & Platform Engineering**
+- **Cloud Infrastructure**
+- **System Reliability**
+- **Offline-First Systems**
+- **Synchronization & Asynchronous Processing**
 
 ---
 
 ## 📊 Coding Activity
 
 <div align="center">
-  <figure>
-    <embed src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg"></embed>
-  </figure>
+  <img src="https://wakatime.com/share/@Agirem/86fca2f8-40d0-4869-8c4a-eaa3857cf872.svg" alt="WakaTime coding activity" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agirem1)
 
-<a href="https://www.linkedin.com/in/agirem1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/Agirem" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://meriga.cm" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-meriga.cm-181717?style=flat-square&logo=vercel&logoColor=white)](https://meriga.cm)
 
 ---
 
-> Building practical digital products with clean code, strong UX, and real-world impact.
+> **Engineering reliable software systems from architecture to production.**
