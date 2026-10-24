@@ -8,30 +8,24 @@ Main technologies: **Laravel, Vue.js, Flutter, MySQL, Redis, Docker, Linux and C
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### MyTravelr
 Travel platform for intercity transportation, combining web and mobile applications with booking, Mobile Money payments, QR/PDF ticketing, agency tools, notifications and offline workflows.
-
-**Tech:** Laravel · Vue.js · Flutter · MySQL · Redis · REST APIs
 
 🌐 [mytravelr.cm](https://mytravelr.cm)
 
 ### Clario
 SaaS platform for professional email management with custom domains, multi-tenant accounts, asynchronous email processing, webhooks, DNS automation and delivery tracking.
 
-**Tech:** Laravel · Vue.js · MySQL · Postmark · Cloudflare · Queues · Webhooks
-
 🌐 [clario-mail.com](https://clario-mail.com)
 
 ### Stash
 Cross-platform bookmark manager with mobile and Chrome clients, offline-first synchronization, persistent queues and asynchronous content enrichment.
 
-**Tech:** Laravel · Vue.js · Flutter · MySQL · Chrome Extension · REST APIs
-
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Backend:** Laravel · PHP · REST APIs · Queues · Webhooks  
 **Frontend:** Vue.js · React · Inertia.js · Tailwind CSS  
@@ -41,13 +35,13 @@ Cross-platform bookmark manager with mobile and Chrome clients, offline-first sy
 
 ---
 
-## 🧠 Interests
+## Interests
 
 Distributed Systems · Software Architecture · Backend Engineering · Cloud Infrastructure · System Reliability
 
 ---
 
-## 🤝 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/agirem1) · [Portfolio](https://meriga.cm)
 
